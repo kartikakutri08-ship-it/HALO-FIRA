@@ -1,0 +1,1 @@
+function tampilkanPesan(){document.getElementById('pesan').innerHTML='Terima kasih telah mengunjungi website Maghfira Kartika Putri 😊';}
